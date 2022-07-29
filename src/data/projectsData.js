@@ -1,6 +1,6 @@
 import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
+import perawat from '../assets/svg/projects/perawat.svg'
 import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
@@ -34,7 +34,7 @@ export const projectsData = [
         tags: ['Os Note', 'IMT Calculate', 'Drug Calculate'],
         code: 'https://play.google.com/store/apps/details?id=com.perawat',
         demo: 'https://play.google.com/store/apps/details?id=com.perawat',
-        image: three
+        image: perawat
     },
     {
         id: 4,
