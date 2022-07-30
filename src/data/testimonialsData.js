@@ -39,16 +39,16 @@ export const testimonialsData = [
     },
     {
         id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
+        name: 'Ibu Dewi',
+        title: 'Ibu Pasien',
+        text: ' terima kasih sudah merawat luka paska khitan anak saya, Ethan Shop staff dengan sabar dan teliti merawat luka bekas syatan khitan',
         image: girl3
     },
     {
         id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
+        name: 'Fauz...',
+        title: 'Pasien Covid 19',
+        text: "terima kasih saya bisa sembuh dan sehat, setelah terkena pademi covid dengan saturasi oksigen 74% dan semua rumah sakit penuh, saya di rawat di rumah oleh staff Mohes from Ethan Shop dan sekarang sudah pulih total…bisa beraktivitas seperti semula",
         image: boy3
     }
 ]
