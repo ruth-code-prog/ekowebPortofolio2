@@ -79,7 +79,7 @@ export const projectsData = [
         tags: ['Flutter', 'React'],
         code: 'https://ethan-shop.netlify.app',
         demo: 'https://ethan-shop.netlify.app',
-        image: eight
+        image: one
     },
 ]
 
