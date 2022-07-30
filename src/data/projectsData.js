@@ -56,29 +56,29 @@ export const projectsData = [
     },
     {
         id: 6,
-        projectName: 'Uber Lite',
-        projectDesc: 'Uber clone',
-        tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Hospital Mobile App',
+        projectDesc: 'Register Pasien, Make Appoitment',
+        tags: ['Monitoring Antrian'],
+        code: 'https://wa.me/+62895600394345',
+        demo: 'https://wa.me/+62895600394345',
         image: six
     },
     {
         id: 7,
-        projectName: 'Stock Market App',
-        projectDesc: 'A simple stock market API app',
+        projectName: 'Webstite Portofolio',
+        projectDesc: 'Personal Brand via Webiste',
         tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://ekosetiaji.netlify.app',
+        demo: 'https://ekosetiaji.netlify.app',
         image: seven
     },
     {
         id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
+        projectName: 'Company Website',
+        projectDesc: 'Company Profile via Website',
         tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://ethan-shop.netlify.app',
+        demo: 'https://ethan-shop.netlify.app',
         image: eight
     },
 ]
