@@ -215,21 +215,21 @@ function Contacts() {
                 />
               </div>
               <div className="input-container">
-                <label htmlFor="Email" className={classes.label}>
-                  Email
+                <label htmlFor="Whatsapp" className={classes.label}>
+                Whatsapp
                 </label>
                 <input
-                  placeholder="Tulis Email Anda...."
-                  id="email"
-                  type="email"
-                  name="email"
+                  placeholder="Tulis No Whatsapp...."
+                  id="Whatsapp"
+                  type="Whatsapp"
+                  name="Whatsapp"
                   required
                   className={`form-input ${classes.input}`}
                 />
               </div>
               <div className="input-container">
-                <label htmlFor="Email" className={classes.label}>
-                  Email
+                <label htmlFor="Pesan" className={classes.label}>
+                  Pesan
                 </label>
                 <textarea
                   placeholder="Tulis Pesan...."
